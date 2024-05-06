@@ -15,4 +15,4 @@ To use the binary search function, ensure that you have [required programming la
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/binary-search.git
+   https://github.com/MDAEJA/Assigment_npm_package_binary_search.git
